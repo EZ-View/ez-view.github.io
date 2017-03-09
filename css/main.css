@@ -16,10 +16,6 @@ header {
   color: #000;
 }
 
-.title {
-  background: none;
-}
-
 a:hover {
   text-decoration: none;
 }
