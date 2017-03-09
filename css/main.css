@@ -2,8 +2,9 @@ html,
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Roboto', sans-serif;
-  background-color: #fbfbfb;
+  font-family: 'Carter One', cursive;
+  background-color: #eee;
+  blur:2px;
 }
 
 main {
@@ -15,18 +16,21 @@ header {
   color: #000;
 }
 
+iframe {
+  border-radius: 5px;
+}
+
 a {
   padding: 2%;
   color: #fff;
   background: #0275d8;
   border-radius:20px;
-  text-decoration: none;
 }
 
 a:hover{
   color: #fff;
   box-shadow:3px 3px 5px 6px #ccc;
-
+  text-decoration: none;
 }
 
 img {
